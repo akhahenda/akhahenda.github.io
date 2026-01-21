@@ -1,4 +1,3 @@
-# To publish author profile pages, remove all the `build` and `cascade` settings below.
 # Display name
 title: Akhahenda k. Whitney
 # Is this the primary user of the site?
