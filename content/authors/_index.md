@@ -55,7 +55,7 @@ social:
     link: https://youtube.com/www.youtube.com/@whitneyakhahenda
 
 # Enter email to display Gravatar (optional)
-email: ""
+email: "akhahenda@g.kmou.ac.kr"
 ---
 
 Hello! I am a Kenyan researcher based in South Korea. I am currently a PhD student at ** National Korea Maritime and Ocean University**, focusing on how Artificial Intelligence can improve maritime sustainability and security. 
