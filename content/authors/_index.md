@@ -11,7 +11,7 @@ organizations:
   - name: National Korea Maritime and Ocean University
     url: 'https://www.kmou.ac.kr/'
   - name: Jomo Kenyatta University of Agriculture and Technology
-    url: 'jkuat.ac.ke/'
+    url: 'https://www.jkuat.ac.ke/'
     
 # Bio (shown in the about widget)
 Bio: A Kenyan researcher exploring the intersection of AI, maritime emissions, and cybersecurity in Busan, South Korea.
